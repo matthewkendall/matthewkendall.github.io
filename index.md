@@ -1,125 +1,14 @@
----
-layout: default
----
+# Matthew Kendall
 
-$$z+2$$
+### About
+I am an undergraduate at Princeton University majoring in math.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Here is my [CV](https://drive.google.com/file/d/10HaFZApJXhUxyGRKhNT5fdhJX7zon5qV/view?usp=sharing) and [math coursework](https://drive.google.com/file/d/1MCUe_CznWGLBNJrX_yd19g5PhdmZfXkw/view?usp=sharing).
 
-[Link to another page](./another-page.html).
+### Projects/Research
 
-There should be whitespace between paragraphs.
+-   [Preprint](https://arxiv.org/abs/2108.05745) of a paper on Helly's Theorem and [slides](https://drive.google.com/file/d/1XUFLkC3joIvBtLTd2nv61izF1HfMWo7U/view?usp=sharing) for the Young Mathematicians Conference at OSU
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+-   A [paper](https://drive.google.com/file/d/1NS0GOi4oB5l6gTXtjJSKy62yDzaEBiTY/view?usp=sharing) on the proof of Steinitz' Theorem, classifying the graphs of polyhedra
+    
+-   Slides for a reading project on finite-dimensional representations of finite groups, Lie groups, and Lie algebras: [1](https://drive.google.com/file/d/1QjwRF0HZF1aFF6zScaClb6YVIeXvHXng/view?usp=sharing) (representations of S_d), [2](https://drive.google.com/file/d/1i7wDhTK4fKgiomRHZBb_MVMKBFfjago0/view?usp=sharing) (Grassmannians and representations of sl_n(C)), [3](https://drive.google.com/file/d/1hi3LycRgXJi-u_KKOjKsU4CNl5S-YvmY/view?usp=sharing) (analysis on SU(2) and the Peter-Weyl theorem)
