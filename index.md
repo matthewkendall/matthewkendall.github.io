@@ -10,7 +10,7 @@ Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 -   An <a href="/assets/steinitz.pdf" target="_blank"> expository paper </a> on the proof of Steinitz' Theorem, classifying the graphs of polyhedra
   
--   Slides for a reading project on finite-dimensional representations of finite groups, Lie groups, and Lie algebras: <a href="/assets/lec_Sn-reps.pdf" target="_blank"> representations of $S_d$ </a> , <a href=assets/lec_grassmannians.pdf" target="_blank"> Grassmannians and representations of $\mathfrak{sl}_n(\mathbb{C})$ </a> , <a href="/assets/lec_su2.pdf" target="_blank"> analysis on $\mathrm{SU}(2)$ and the Peter-Weyl theorem </a>
+-   Slides for a reading project on finite-dimensional representations of finite groups, Lie groups, and Lie algebras: <a href="/assets/lec_Sn-reps.pdf" target="_blank"> representations of $S_d$ </a> , <a href="/assets/grassmannians.pdf" target="_blank"> Grassmannians and representations of $\mathfrak{sl}_n(\mathbb{C})$ </a>, <a href="/assets/lec_su2.pdf" target="_blank"> analysis on $\mathrm{SU}(2)$ and the Peter-Weyl theorem </a>
 
 ## Talks and Presentations
 
