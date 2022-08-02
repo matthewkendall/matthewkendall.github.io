@@ -3,7 +3,7 @@
 ## About
 I am an undergraduate at Princeton University majoring in math.
 
-Here is my <a href="matthewkendall.github.io/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
+Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 ## Projects and Research
 - Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Victor Hugo Almendra-Hernández)  <br> https://arxiv.org/abs/2108.05745 
