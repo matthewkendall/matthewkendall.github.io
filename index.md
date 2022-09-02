@@ -1,12 +1,12 @@
 # Matthew Kendall
 
 ## About
-I am an undergraduate at Princeton University majoring in math.
+I am a third-year undergraduate at Princeton University majoring in math.
 
 Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 ## Projects and Research
-- Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Victor Hugo Almendra-Hernández)  <br> <a href="https://arxiv.org/abs/2108.05745">https://arxiv.org/abs/2108.05745 </a>
+- Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Victor Hugo Almendra-Hernández)  <br> <a href="https://arxiv.org/abs/2108.05745">https://arxiv.org/abs/2108.05745</a>
 
 -   An <a href="/assets/steinitz.pdf" target="_blank"> expository paper</a> on the proof of Steinitz' Theorem, classifying the graphs of polyhedra
   
@@ -14,5 +14,6 @@ Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 ## Talks and Presentations
 
--  <a href="/assets/helly-diameter_presentation.pdf" target="_blank"> Quantitative Helly-type theorems via sparse approximation</a> slides for the [Young Mathematicians Conference](https://ymc.osu.edu/about) at Ohio State University (2021)
-- <a href="/assets/I-hate-geometry-change-my-mind.pdf" target="_blank"> Handout on convex geometry</a> for Princeton's Splash Course, aimed at 9th and 10th grade students (2021)
+- <a href="https://video.renyi.hu/video/matthew-kendall-quantitative-helly-type-theorems-via-sparse-approximation-430" target="_blank"> Quantitative Helly-type theorems via sparse approximation lecture</a> for the Budapest Big Combinatorics and Geometry Seminar at the Alfréd Rényi Institute of Mathematics (August 2022)
+-  <a href="/assets/helly-diameter_presentation.pdf" target="_blank"> Quantitative Helly-type theorems via sparse approximation slides</a> for the [Young Mathematicians Conference](https://ymc.osu.edu/about) at Ohio State University (August 2021)
+<!-- - <a href="/assets/I-hate-geometry-change-my-mind.pdf" target="_blank"> Handout on convex geometry</a> for Princeton's Splash Course, aimed at 9th and 10th grade students (2021) -->
