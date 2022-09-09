@@ -6,7 +6,7 @@ I am a third-year undergraduate at Princeton University majoring in math.
 Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 ## Projects and Research
-- Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Victor Hugo Almendra-Hernández)  <br> <a href="https://arxiv.org/abs/2108.05745">https://arxiv.org/abs/2108.05745</a>
+- Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Victor Hugo Almendra-Hernández)  <br> To appear in *Discrete & Computational Geometry*. <br> <a href="https://arxiv.org/abs/2108.05745">arxiv:2108.05745</a>
 
 -   An <a href="/assets/steinitz.pdf" target="_blank"> expository paper</a> on the proof of Steinitz' Theorem, classifying the graphs of polyhedra
   
