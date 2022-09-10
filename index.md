@@ -14,6 +14,6 @@ Here is my <a href="/assets/Kendall_CV_22.pdf" target="_blank"> CV</a>.
 
 ## Talks and Presentations
 
-- <a href="https://video.renyi.hu/video/matthew-kendall-quantitative-helly-type-theorems-via-sparse-approximation-430" target="_blank"> Quantitative Helly-type theorems via sparse approximation talk</a> for the Budapest Big Combinatorics and Geometry Seminar at the Alfréd Rényi Institute of Mathematics (August 2022)
+- <a href="https://video.renyi.hu/video/matthew-kendall-quantitative-helly-type-theorems-via-sparse-approximation-430" target="_blank"> Quantitative Helly-type theorems via sparse approximation talk</a> for the <a href="https://coge.elte.hu/seminar.html" target="_blank"> Budapest Big Combinatorics and Geometry Seminar</a> at the Alfréd Rényi Institute of Mathematics (August 2022)
 -  <a href="/assets/helly-diameter_presentation.pdf" target="_blank"> Quantitative Helly-type theorems via sparse approximation slides</a> for the [Young Mathematicians Conference](https://ymc.osu.edu/about) at Ohio State University (August 2021)
 <!-- - <a href="/assets/I-hate-geometry-change-my-mind.pdf" target="_blank"> Handout on convex geometry</a> for Princeton's Splash Course, aimed at 9th and 10th grade students (2021) -->
