@@ -12,7 +12,7 @@ Email: mskendall [at] princeton [dot] edu
 - <a href="/assets/steinitz.pdf" target="_blank"> The proof of Steinitz's Theorem</a>, classifying the graphs of polyhedra
 - <a href="/assets/drum.pdf" target="_blank"> Can you hear the shape of a drum?</a>
 
-## Talks
+## Talks and presentations
 1. August 2021, Young Mathematicians Conference, Ohio State University (online) <br> *Quantitative Helly-type theorems via sparse approximation* 
 2. August 2022, Budapest Big Combinatorics and Geometry Seminar, Alfréd Rényi Institute of Mathematics, Budapest (Hungary) (<a href="https://video.renyi.hu/video/matthew-kendall-quantitative-helly-type-theorems-via-sparse-approximation-430" target="_blank">video</a>) <br>*Quantitative Helly-type theorems via sparse approximation*
 3. September 2022, NYC Geometry Seminar, New York (NY) (<a href="https://youtu.be/VM_MmBW-Q_Y" target="_blank">video</a>) <br>*Quantitative Helly-type theorems via sparse approximation*
