@@ -10,7 +10,7 @@ Email: mskendall [at] princeton [dot] edu
 
 ## Expository
 - <a href="/assets/steinitz.pdf" target="_blank"> The proof of Steinitz's Theorem</a>, classifying the graphs of polyhedra
-- <a href="/assets/steinitz.pdf" target="_blank"> Can you hear the shape of a drum?</a>
+- <a href="/assets/drum.pdf" target="_blank"> Can you hear the shape of a drum?</a>
 
 ## Talks
 1. August 2021, Young Mathematicians Conference, Ohio State University (online) <br> *Quantitative Helly-type theorems via sparse approximation* 
