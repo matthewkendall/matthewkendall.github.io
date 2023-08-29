@@ -1,7 +1,7 @@
 # Matthew Kendall
 
 ## About
-I am a third-year undergraduate at Princeton University majoring in math.
+I am a senior at Princeton University majoring in math.
 
 Email: mskendall [at] princeton [dot] edu
 
