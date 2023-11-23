@@ -12,7 +12,6 @@ Email: mskendall [at] princeton [dot] edu
 
 ## Expository
 - <a href="/assets/HM-HF.pdf" target="_blank"> On Morse-Smale and Lagrangian Floer homology</a>
-- <a href="/assets/intersection-form.pdf" target="_blank"> On the intersection form</a>
 - <a href="/assets/drum.pdf" target="_blank"> Can you hear the shape of a drum?</a>
-- <a href="/assets/steinitz.pdf" target="_blank"> The proof of Steinitz's Theorem</a>, classifying the graphs of polyhedra
+- <a href="/assets/steinitz.pdf" target="_blank"> The proof of Steinitz's Theorem</a>
 
