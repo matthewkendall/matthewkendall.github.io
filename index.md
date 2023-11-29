@@ -6,9 +6,9 @@ I am a senior at Princeton University majoring in math.
 Email: mskendall [at] princeton [dot] edu
 
 ## Projects
-- Crossing change maps in filtered grid homology <br> <a href="https://arxiv.org/abs/2303.04227">arxiv:2303.04227</a>
-- Bender-Knuth involutions on linear extensions of posets <br> (joint with Judy Chiang, Anh Hoang, Ryan Lynch, Son Nguyen, Ben Przybocki, Janabel Xia) <br> <a href="https://arxiv.org/abs/2302.12425">arxiv:2302.12425</a>
-- Quantitative Helly-type theorems via sparse approximation <br> (joint with Gergely Ambrus and Víctor Hugo Almendra-Hernández)  <br> *Discrete & Computational Geometry*, accepted. <br> <a href="https://arxiv.org/abs/2108.05745">arxiv:2108.05745</a>
+- Crossing change maps in filtered grid homology <br> <a href="https://arxiv.org/abs/2303.04227">arXiv</a>
+- Bender-Knuth involutions on linear extensions of posets <br> (with Judy Chiang, Anh Hoang, Ryan Lynch, Son Nguyen, Ben Przybocki, and Janabel Xia) <br> <a href="https://arxiv.org/abs/2302.12425">arXiv</a>
+- Quantitative Helly-type theorems via sparse approximation <br> (with Gergely Ambrus and Víctor Hugo Almendra-Hernández)  <br> <a href="https://link.springer.com/article/10.1007/s00454-022-00441-5">*Discrete & Computational Geometry* 70(4):1707-1714</a> | <a href="https://arxiv.org/abs/2108.05745">arXiv</a>
 
 ## Expository
 - <a href="/assets/HM-HF.pdf" target="_blank"> On Morse-Smale and Lagrangian Floer homology</a>
