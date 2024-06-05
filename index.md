@@ -1,7 +1,10 @@
 # Matthew Kendall
 
+Welcome to my website!
+
 ## About
 I am a senior at Princeton University majoring in math.
+A brief CV can be found <a href="/assets/CV-short-jun24.pdf" target="_blank">here</a>.
 
 Email: mskendall [at] princeton [dot] edu
 
