@@ -14,6 +14,7 @@ Email: mskendall [at] princeton [dot] edu
 - Quantitative Helly-type theorems via sparse approximation (<a href="https://arxiv.org/abs/2108.05745">arXiv</a>) <br> (with Gergely Ambrus and Víctor Hugo Almendra-Hernández)  <br> <a href="https://link.springer.com/article/10.1007/s00454-022-00441-5">*Discrete & Computational Geometry* 70(4):1707-1714</a>
 
 ## Expository
+- <a href="/assets/thesis-printable.pdf" target="_blank"> The surgery exact triangle in Heegaard Floer homology</a>
 - <a href="/assets/HM-HF.pdf" target="_blank"> On Morse-Smale and Lagrangian Floer homology</a>
 - <a href="/assets/drum.pdf" target="_blank"> Can you hear the shape of a drum?</a>
 - <a href="/assets/steinitz.pdf" target="_blank"> The proof of Steinitz's Theorem</a>
