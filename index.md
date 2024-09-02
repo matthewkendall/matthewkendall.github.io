@@ -10,6 +10,8 @@ A brief CV can be found <a href="/assets/CV-short-aug24.pdf" target="_blank">her
 Email: matthewkendall [at] stanford [dot] edu
 
 ## Mathematical writing
+[Link to another page](./another-page.html).
+
 Everything below is expository.
 For research, please take a look at my CV.
 If you find a mistake or are interested in something that is written here, please don't hesitate to email me.
