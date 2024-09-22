@@ -1,6 +1,6 @@
 # Matthew Kendall
 
-I am an incoming math PhD student at Stanford.
+I am a first year math PhD student at Stanford.
 
 A brief CV can be found <a href="/assets/CV-short-aug24.pdf" target="_blank">here</a>.
 
