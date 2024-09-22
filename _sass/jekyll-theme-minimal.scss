@@ -270,6 +270,10 @@ footer {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+    body { background: #333; color: white; } 
+}
+
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
