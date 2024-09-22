@@ -1,15 +1,64 @@
 @import "fonts";
 @import "rouge-github";
 
+// body {
+//   background-color: #fff;
+//   padding:50px;
+//   // font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//   // font-family: 'Courier New', monospace;
+//   font-family: 'Times New Roman', serif;
+//   color:#000000;
+//   font-weight:400;
+// }
+/* Default Light Mode */
+
 body {
-  background-color: #fff;
-  padding:50px;
-  // font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  // font-family: 'Courier New', monospace;
-  font-family: 'Times New Roman', serif;
-  color:#000000;
-  font-weight:400;
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: 'Times New Roman', serif;
 }
+
+header, footer {
+    background-color: #f1f1f1;
+    color: #333333;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+header.dark-mode, footer.dark-mode {
+    background-color: #1e1e1e;
+    color: #cccccc;
+}
+
+button.dark-mode {
+    background-color: #0056b3;
+    color: #e0e0e0;
+}
+
+/* Links */
+a {
+    color: #007bff;
+}
+
+body.dark-mode a {
+    color: #80d4ff;
+}
+
+/* Additional customizations as needed */
+
+
+
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
