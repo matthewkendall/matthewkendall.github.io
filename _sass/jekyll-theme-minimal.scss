@@ -319,17 +319,17 @@ footer {
   }
 }
 
-.theme-b {
-  background: #447;
-  color: #bbd;
-}
-@media (prefers-color-scheme: dark) {
-  .theme-b.adaptive {
-    background: #bcd;
-    color: #334;
-    outline: 5px dotted #000;
-  }
-}
+// .theme-b {
+//   background: #447;
+//   color: #bbd;
+// }
+// @media (prefers-color-scheme: dark) {
+//   .theme-b.adaptive {
+//     background: #bcd;
+//     color: #334;
+//     outline: 5px dotted #000;
+//   }
+// }
 
 
 @media print, screen and (max-width: 480px) {
@@ -352,4 +352,71 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+
+/* Define color variables for light mode */
+$light-background: #ffffff;
+$light-text: #000000;
+$light-header-footer-bg: #f1f1f1;
+$light-header-footer-text: #333333;
+$light-button-bg: #007bff;
+$light-button-text: white;
+$light-link-color: #007bff;
+
+/* Define color variables for dark mode */
+$dark-background: #121212;
+$dark-text: #e0e0e0;
+$dark-header-footer-bg: #1e1e1e;
+$dark-header-footer-text: #cccccc;
+$dark-button-bg: #0056b3;
+$dark-button-text: #e0e0e0;
+$dark-link-color: #80d4ff;
+
+/* Mixin to define light and dark mode rules */
+@mixin theme-mode($bg-color, $text-color, $header-footer-bg, $header-footer-text, $button-bg, $button-text, $link-color) {
+  body {
+    background-color: $bg-color;
+    color: $text-color;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  header, footer {
+    background-color: $header-footer-bg;
+    color: $header-footer-text;
+  }
+
+  button {
+    background-color: $button-bg;
+    color: $button-text;
+  }
+
+  a {
+    color: $link-color;
+  }
+}
+
+/* Default Light Mode */
+@include theme-mode(
+  $light-background,
+  $light-text,
+  $light-header-footer-bg,
+  $light-header-footer-text,
+  $light-button-bg,
+  $light-button-text,
+  $light-link-color
+);
+
+/* Dark Mode */
+body.dark-mode {
+  @include theme-mode(
+    $dark-background,
+    $dark-text,
+    $dark-header-footer-bg,
+    $dark-header-footer-text,
+    $dark-button-bg,
+    $dark-button-text,
+    $dark-link-color
+  );
 }
