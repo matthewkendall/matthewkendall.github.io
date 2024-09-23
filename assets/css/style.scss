@@ -24,3 +24,25 @@ body {
     --bg: #000;
   }
 }
+
+/* Change the default link color */
+a {
+  color: blue; /* Normal link color */
+  text-decoration: none; /* Removes the underline */
+}
+
+// /* Change the link color when hovered over */
+// a:hover {
+//   color: red; /* Hover state link color */
+//   text-decoration: underline; /* Adds underline on hover */
+// }
+
+/* Change the color of visited links */
+a:visited {
+  color: blue; /* Visited link color */
+}
+
+/* Change the link color when it is active (being clicked) */
+a:active {
+  color: green; /* Active link color */
+}
