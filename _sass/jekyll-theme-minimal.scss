@@ -1,25 +1,25 @@
 @import "fonts";
 @import "rouge-github";
 
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
 
-:root {
-  --text: #000;
-  --bg: #fff;
-}
+// :root {
+//   --text: #000;
+//   --bg: #fff;
+// }
 
-body {
-  font-family: "Source Sans Pro", sans-serif;
-  background-color: var(--bg);
-  color: var(--text);
-}
+// body {
+//   font-family: "Source Sans Pro", sans-serif;
+//   background-color: var(--bg);
+//   color: var(--text);
+// }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #fff;
-    --bg: #000;
-  }
-}
+// @media (prefers-color-scheme: dark) {
+//   :root {
+//     --text: #fff;
+//     --bg: #000;
+//   }
+// }
 
 // body {
 //   background-color: #fff;
