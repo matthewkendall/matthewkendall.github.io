@@ -1,15 +1,35 @@
 @import "fonts";
 @import "rouge-github";
 
-body {
-  background-color: #fff;
-  padding:50px;
-  font: 16px/1.5;
-  // font-family: 'Courier New', monospace;
-  font-family: 'Times New Roman', serif;
-  color:#000000;
-  font-weight:400;
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+:root {
+  --text: #000;
+  --bg: #fff;
 }
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #fff;
+    --bg: #000;
+  }
+}
+
+// body {
+//   background-color: #fff;
+//   padding:50px;
+//   font: 16px/1.5;
+//   // font-family: 'Courier New', monospace;
+//   font-family: 'Times New Roman', serif;
+//   color:#000000;
+//   font-weight:400;
+// }
 // /* Default Light Mode */
 
 // body {
@@ -57,25 +77,6 @@ body {
 // /* Additional customizations as needed */
 
 
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
-
-:root {
-  --text: #000;
-  --bg: #fff;
-}
-
-body {
-  font-family: "Source Sans Pro", sans-serif;
-  background-color: var(--bg);
-  color: var(--text);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #fff;
-    --bg: #000;
-  }
-}
 
 
 h1, h2, h3, h4, h5, h6 {
