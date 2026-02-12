@@ -8,4 +8,4 @@ Email: matthewkendall [at] stanford [dot] edu
 
 <!-- [Mathematical writing](./another-page.html). -->
 
-[teaching](./tutoring.html).
+[Teaching](./tutoring.html).
