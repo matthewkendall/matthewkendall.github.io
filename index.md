@@ -6,4 +6,6 @@ I am a second year math PhD student at Stanford.
 
 Email: matthewkendall [at] stanford [dot] edu
 
-[Mathematical writing](./another-page.html).
+<!-- [Mathematical writing](./another-page.html). -->
+
+[teaching](./tutoring.html).
